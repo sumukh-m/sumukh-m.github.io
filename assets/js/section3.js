@@ -26,11 +26,11 @@ AOS.init({
   //rotating words TagCloud https://www.cssscript.com/animated-sphere-tag-cloud/  https://github.com/mcc108/TagCloud
 
   const myTags = [
-    'JavaScript', 'CSS', 'HTML',
-    'C', 'C++', 'React',
-    'Python', 'Java', 'git',
-    'Node.js', 'OpenCV',
-    'GCP', 'MySQL', 'jQuery',
+    'Java', 'Python', 'Tensorflow',
+    'C', 'Pytorch', 'Keras',
+    'CSS', 'JavaScript', 'git',
+    'Docker', 'Kubernetes',
+    'Bash Script', 'MySQL', 'HTML',
 ];
 
 var tagCloud = TagCloud('.content', myTags,{
@@ -58,11 +58,11 @@ var random_color = colors[Math.floor(Math.random() * colors.length)];
 document.querySelector('.content').style.color = random_color;
 
 const myTagsp = [
-  'JavaScript', 'CSS', 'HTML',
-  'C', 'C++', 'React',
-  'Python', 'Java', 'git',
-  'Node.js', 'OpenCV',
-  'GCP', 'MySQL', 'jQuery',
+  'Java', 'Python', 'Tensorflow',
+    'C', 'Pytorch', 'Keras',
+    'CSS', 'JavaScript', 'git',
+    'Docker', 'Kubernetes',
+    'Bash Script', 'MySQL', 'HTML',
 ];
 
 var tagCloud = TagCloud('.content_phone', myTagsp,{
