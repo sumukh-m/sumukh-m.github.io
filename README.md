@@ -1,6 +1,5 @@
 # Portfolio Website
 
 ## Link:
-```
- https://sumukh-m.github.io/index.html
-```
+
+[Portfolio Website](https://sumukh-m.github.io/index.html)
