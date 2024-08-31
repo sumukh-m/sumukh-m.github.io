@@ -1,5 +1,3 @@
-# Portfolio Website
+# Welcome to my Portfolio Website Project Repo
 
-## Link:
-
-[Portfolio Website](https://sumukh-m.github.io/index.html)
+[Portfolio Website Link](https://sumukh-m.github.io/index.html)
