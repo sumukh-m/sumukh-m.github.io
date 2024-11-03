@@ -3,5 +3,5 @@
 </div>
 
 <h1 align="center">
-  <a target="_blank" href="https://sumukh-m.github.io/">sumukhmydur.me</a>
+  <a target="_blank" href="https://sumukh-m.github.io/">sumukh-mydur.me</a>
 </h1>
